@@ -176,8 +176,8 @@ def get_ui():
         <div class="container py-4" style="max-width: 1100px;">
             <header class="dashboard-header text-center">
                 <span class="badge-tag mb-2 d-inline-block">RoBERTa-base • SQuAD v2.0 API</span>
-                <h1 class="fw-bold fs-3 mb-1">Panel de Control & Validación</h1>
-                <p class="text-secondary small">Evaluación de endpoints y pruebas en tiempo real</p>
+                <h1 class="fw-bold fs-3 mb-1">Respone preguntas :) </h1>
+                <p class="text-secondary small"></p>
             </header>
 
             <div class="row g-4">
